@@ -1,0 +1,23 @@
+.flex-col{
+    flex-direction: column;
+}
+.flex{
+    display: flex;
+}
+.justify-center{
+    justify-content: center;
+}
+.my1{
+    margin-top: 13px;
+    margin-bottom: 13px;
+}
+.px-2{
+    padding-left: 13px;
+    padding-right: 13px;
+}
+.overflow-x-hidden{
+    overflow-x: hidden;
+}
+.text-center{
+    text-align: center;
+}
